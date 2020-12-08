@@ -1,0 +1,1 @@
+{"recepients": 'lalithmohan24@gmail.com', "myemail": 'lalithmohan24@gmail.com', "mypass": 'laddujanu24'}
